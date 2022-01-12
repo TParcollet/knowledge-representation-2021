@@ -19,7 +19,7 @@ If first in one task, you'll earn a mystery legendary loot. Hence, two winners (
 |----------------|-------------------------------|-----------------------------|
 |Firstname Lastname|   xx       | xx           |
 |Louis Aracil | 70.50%|71.80% |
-|Alexis Sola | 12.32%| 50.00% |
+|Alexis Sola | 70,73%| xx |
 
 
 
