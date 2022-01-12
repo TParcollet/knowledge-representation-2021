@@ -92,6 +92,6 @@ for epoch in range(epochs):
     valid_accuracy = result[1]
     test_accuracy = result[2]
 
-    print("Epoch ", epoch + 1, "\nLoss:", round(loss, 3), " \nAccuracy on Train:", round(train_accuracy, 3),
-          "\nAccuracy on Validation:", round(valid_accuracy, 3), "\nAccuracy on Test", round(test_accuracy, 3))
+    print("Epoch ", epoch + 1, "\nLoss:", round(loss, 4), " \nAccuracy on Train:", round(train_accuracy, 4),
+          "\nAccuracy on Validation:", round(valid_accuracy, 4), "\nAccuracy on Test", round(test_accuracy, 4))
     print("-------------------------------------------------------------------------------------------------")
