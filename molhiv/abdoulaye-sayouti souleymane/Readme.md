@@ -12,5 +12,5 @@ lr = 0.001
 epochs = 50
 
 ## résultats
-### Accuracy : 77.5%
+### ROC AUC : 77.5%
 
