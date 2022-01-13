@@ -23,7 +23,7 @@ If first in one task, you'll earn a mystery legendary loot. Hence, two winners (
 |Haddad Anas                  | 69.7%                        | 75.11%                      |
 |Abdoulaye Sayouti Souleymane | 71.9%                         | 77.5%                       |
 |Virgile Sucal                | 41.38%                        | 63.65%                      |
-
+|Nousradine cherif Hassan     | 56.53%                        | 76.41%
 
 
 
