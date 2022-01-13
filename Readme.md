@@ -22,6 +22,7 @@ If first in one task, you'll earn a mystery legendary loot. Hence, two winners (
 |Alexis Sola | 70,73%| 78.03% |
 |Nathan Guilhot | 56.64%| 74.03% |
 |Haddad Anas | 69.5%| 75.11% |
+|Abdoulaye Sayouti Souleymane | 71.9%| 77.5% |
 
 
 
