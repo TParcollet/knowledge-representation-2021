@@ -7,6 +7,8 @@ emb_dim = 124
 
 drop_ratio = 0.1
 
+lr = 0.001
+
 epochs = 50
 
 ## résultats
