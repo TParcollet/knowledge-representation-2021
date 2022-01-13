@@ -8,6 +8,7 @@ from torch_geometric.nn import GATConv
 from ogb.nodeproppred import PygNodePropPredDataset, Evaluator
 def train(model, data, train_idx, optimizer):
     model.train()
+    optimizer.zero_grad()
     out = model(data.x, data.adj_t)[train_idx]
     loss = F.nll_loss(out, data.y.squeeze(1)[train_idx])
     loss.backward()
